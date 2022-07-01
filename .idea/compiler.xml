@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="dio-padroes-de-projeto-spring" options="-parameters --add-modules java.base" />
+      <module name="dio-padroes-de-projeto-spring" options="-parameters" />
       <module name="lab_padroes_projeto_spring" options="-parameters" />
     </option>
   </component>
